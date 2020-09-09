@@ -9,6 +9,7 @@ function App() {
         <h2 className='main'>Front end <em className='red'>React </em>Developer</h2><br /><br />
         <h2 className='projects'>Projects</h2><br />
         <a href='https://html-tag-library.herokuapp.com/'><h3>Complete HTML tag library</h3></a>
+        <a href='https://battleb2014.github.io/reactSocialCard/'><h3>React social card</h3></a>
       </div>
     </div>
   );
